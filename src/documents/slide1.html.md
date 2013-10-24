@@ -5,7 +5,9 @@ slideOrder: 1
 tags: ['slide']
 ---
 
-# Slide 1
+# CoffeeScript For Server Side Devs
 
-This is the first slide.
+<br>
+[@jedschneider](http://twitter.com/jedschneider)
 
+[@modeset_](http://twitter.com/modeset_)

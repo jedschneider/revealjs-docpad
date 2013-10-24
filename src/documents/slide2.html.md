@@ -4,16 +4,27 @@ htmlId: 'slide2'
 slideOrder: 2
 tags: ['slide']
 ---
-
 <section>
-# Slide 2
+<t render="markdown">
+## The Front End is Finally Good
 
-This is the second slide.
+- build tools (Grunt)
+- dependency management (Bower, require.js)
+- MV* frameworks (Backbone, Angular, Ember)
+- languages that target JavaScript (CoffeeScript)
+
+</t>
 </section>
 
 <section>
-### Surprise !
+<t render="markdown">
+## Read These Books
 
-It's very easy to add vertical slides.
+- JavaScript: The Good Parts (Crockford)
+- Functional Javascript With Underscore (Fogus)
+- CoffeeScript Ristretto (Braithwaite)
+
+</t>
 </section>
+
 

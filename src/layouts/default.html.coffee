@@ -54,8 +54,8 @@ html lang: 'en', ->
 		link href:"http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic", rel:"stylesheet", type:"text/css"
 
 		link rel:'stylesheet', href:'/vendor/reveal/css/main.css', type:'text/css'
-		link rel:'stylesheet', href:'/vendor/reveal/css/theme/default.css', type:'text/css'
-		link rel:'stylesheet', href:'/vendor/reveal/lib/css/zenburn.css', type:'text/css'
+		link rel:'stylesheet', href:'/vendor/reveal/css/theme/sky.css', type:'text/css'
+		link rel:'stylesheet', href:'/vendor/reveal/lib/css/docco.css', type:'text/css'
 
 		link rel:'stylesheet', href:'/vendor/reveal/css/print/paper.css', type:'text/css', media:'print'
 
