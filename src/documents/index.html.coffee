@@ -28,5 +28,5 @@ div class:'reveal', ->
   div class:"progress", -> span
   
   div class:'bitly', ->
-    a href:"http://bit.ly/19GlSBt", ->
-      "http://bit.ly/19GlSBt"
+    a href:"http://bit.ly/1biipvF", ->
+      "http://bit.ly/1biipvF"
